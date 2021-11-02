@@ -1,5 +1,5 @@
 {
-    "name": "sounds",
+    "name": "leds",
     "description": "",
     "dependencies": {
         "core": "*",
